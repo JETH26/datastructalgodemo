@@ -1,0 +1,15 @@
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/bin/Debug/net5.0/DemoDataStruct.deps.json
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/bin/Debug/net5.0/DemoDataStruct.runtimeconfig.json
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/bin/Debug/net5.0/DemoDataStruct.runtimeconfig.dev.json
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/bin/Debug/net5.0/DemoDataStruct.dll
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/bin/Debug/net5.0/ref/DemoDataStruct.dll
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/bin/Debug/net5.0/DemoDataStruct.pdb
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.csproj.AssemblyReference.cache
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.GeneratedMSBuildEditorConfig.editorconfig
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.AssemblyInfoInputs.cache
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.AssemblyInfo.cs
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.csproj.CoreCompileInputs.cache
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.dll
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/ref/DemoDataStruct.dll
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.pdb
+/Users/neilvillareal/Projects/datastructalgodemo/DemoDataStruct/DemoDataStruct/obj/Debug/net5.0/DemoDataStruct.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{1FF13535-FF57-4EBB-ACA1-AD33E1BFC941}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoDataStruct/Program.cs">
+    <Files>
+      <File FileName="DemoDataStruct/Program.cs" Line="10" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DemoDataStruct" expanded="True">
+            <Node name="DemoDataStruct" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DemoDataStruct PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
