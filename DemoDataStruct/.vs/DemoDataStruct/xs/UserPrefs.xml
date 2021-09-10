@@ -1,10 +1,14 @@
 ﻿<Properties StartupConfiguration="{1FF13535-FF57-4EBB-ACA1-AD33E1BFC941}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="DemoDataStruct/Program.cs">
+    <Files>
+      <File FileName="DemoDataStruct/Program.cs" Line="14" Column="17" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="DemoDataStruct" expanded="True">
             <Node name="DemoDataStruct" expanded="True">
+              <Node name="Dependencies" expanded="True" />
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
