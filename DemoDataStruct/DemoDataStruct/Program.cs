@@ -6,7 +6,7 @@ namespace DemoDataStruct
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ACLC BSCS - Algorithm!");
+            Console.WriteLine("jetro bagasala");
             SayHi();
             Console.ReadKey();
         }
